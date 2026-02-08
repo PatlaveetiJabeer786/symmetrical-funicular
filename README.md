@@ -21,5 +21,6 @@ Analytical Data Professional specialized in **Power BI**, **SQL**, and **Python*
 
 ### 📫 Connect with Me
 * **Email:** jabeerpatlaveeti@gmail.com
+* **contact:** 6302928473
 * **LinkedIn:** [linkedin.com/in/jabeer-patlaveeti](https://www.linkedin.com/in/jabeer-patlaveeti)
 * **Location:** Bengaluru, India
